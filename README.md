@@ -5,9 +5,9 @@
 
 > This a sample rest server
 
-### 🏠 [Homepage](homepage.com)
+### 🏠 [Homepage](https://posthinksback.herokuapp.com/)
 
-### ✨ [Demo](homepage.com)
+### ✨ [Demo](https://posthinksback.herokuapp.com/)
 
 ## Install
 
