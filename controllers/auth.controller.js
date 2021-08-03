@@ -47,7 +47,7 @@ const signinPOST = async(req = request, res = response) => {
     connection.connect(error => {
         if (error) {
             console.log(error);
-            res.status(200).json({ error: true, status: 500, message: "ERROR_SERVER" });
+            res.status(200).json({ error: true, status: 500, message: error });
         }
     });
     const {
