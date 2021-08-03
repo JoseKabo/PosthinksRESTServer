@@ -1,7 +1,7 @@
 {
     "name": "restserver",
     "version": "1.0.0",
-    "description": "This a sample rest server",
+    "description": "This is a RESTServer to my personal project working on express🎈",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
